@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomelessApp</string>
+    <string name="button_provider">Provider</string>
+    <string name="button_user">User</string>
+</resources>
